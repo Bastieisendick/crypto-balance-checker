@@ -81,6 +81,7 @@ This will prevent you from running into rate limits.
 
 - [Etherscan API](https://etherscan.io/)
 - [Coingecko API](https://coingecko.com/)
+- [Chart.js](https://www.chartjs.org/)
 
 
 ## License  
